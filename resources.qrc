@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/multiqml">
+    <file>icon.png</file>
+  </qresource>
+</RCC>
+
